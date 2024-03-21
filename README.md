@@ -106,6 +106,7 @@ The project aimed to build a sentiment analysis model for movie reviews using a 
 5. **Predictions**:
    - The model was capable of making sentiment predictions on custom text inputs, demonstrating its practical utility beyond evaluation metrics.
    - Example predictions on both positive and negative sentiment phrases showcased the model's ability to distinguish between different sentiment polarities accurately.
+     
     ![image](https://github.com/KrantiWalke/-BERT-Transformer-Based-Sentiment-Analysis-model-for-movie-reviews-/assets/72568005/f5d4f70d-b3fd-4033-b0a2-aa49069f9d9f)
 
 6. **Discussion**:
@@ -116,5 +117,5 @@ The project aimed to build a sentiment analysis model for movie reviews using a 
 Overall, the project demonstrated the feasibility and effectiveness of employing transformer-based models for sentiment analysis tasks, providing insights into the state-of-the-art techniques in NLP.
 
 ## Acknowledgments
-- Hugging Face for providing pretrained Transformer models and datasets.
-- PyTorch and Transformers communities for their contributions to deep learning research and development.
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23F7931E.svg?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/) for providing pretrained Transformer models and datasets.
+- [![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) and [![Transformers](https://img.shields.io/badge/transformers-%234A329A.svg?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/) communities for their contributions to deep learning research and development.
