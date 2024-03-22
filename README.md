@@ -70,7 +70,7 @@ The sentiment analysis model employs a Transformer-based architecture, specifica
 3. Predict sentiment for custom text inputs using the provided function.
 
 ## Example Usage:
-In the given script just replace/add texts and excte the script.
+In the given script just replace/add texts.
 ```python
 # Example text inputs
 texts = [
@@ -80,7 +80,10 @@ texts = [
     "This film is not great, it's terrible!"
 ]
 ```
-
+Execute the script.
+```python
+python Sentiment-Analysis-with-Transformer-Models.py
+```
 ## Results and Conclusion
 After training for multiple epochs, the model achieves a test accuracy of approximately 93%. Sample predictions demonstrate the model's ability to classify sentiment accurately.
 The project aimed to build a sentiment analysis model for movie reviews using a transformer-based architecture, specifically BERT, implemented in PyTorch. Here are some key results and findings from the project:
