@@ -112,7 +112,8 @@ The project aimed to build a sentiment analysis model for movie reviews using a 
    - The model was capable of making sentiment predictions on custom text inputs, demonstrating its practical utility beyond evaluation metrics.
    - Example predictions on both positive and negative sentiment phrases showcased the model's ability to distinguish between different sentiment polarities accurately.
      
-   ![image](https://github.com/KrantiWalke/Transformer-Based-Sentiment-Analysis-model-for-movie-reviews/assets/72568005/bbce16d4-5dba-4601-b79a-0e96fd1cf16e)
+   ![image](https://github.com/KrantiWalke/Transformer-Based-Sentiment-Analysis-model-for-movie-reviews/assets/72568005/bbce16d4-5dba-4601-b79a-0e96fd1cf16e) ![image](https://github.com/KrantiWalke/Transformer-Based-Sentiment-Analysis-model-for-movie-reviews/assets/72568005/f47b307a-7686-4721-93bb-bf2bf24b4834)
+
 
 6. **Discussion**:
    - The project highlighted the effectiveness of transformer-based models, such as BERT, in natural language processing tasks like sentiment analysis.
