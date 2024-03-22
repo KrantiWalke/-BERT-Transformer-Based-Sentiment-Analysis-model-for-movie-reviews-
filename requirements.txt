@@ -4,3 +4,4 @@ datasets
 torchtext
 tqdm
 matplotlib
+transformers
