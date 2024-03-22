@@ -69,14 +69,16 @@ The sentiment analysis model employs a Transformer-based architecture, specifica
 2. Evaluate the trained model using the test set.
 3. Predict sentiment for custom text inputs using the provided function.
 
-## Example Usage
+## Example Usage:
+In the given script just replace/add texts and excte the script.
 ```python
-from sentiment_analysis import predict_sentiment
-
-text = "This film is terrible!"
-predicted_class, predicted_probability = predict_sentiment(text, model, tokenizer, device)
-print(f"Predicted sentiment: {'Positive' if predicted_class == 1 else 'Negative'}")
-print(f"Probability: {predicted_probability:.4f}")
+# Example text inputs
+texts = [
+    "This film is terrible!",
+    "This film is great!",
+    "This film is not terrible, it's great!",
+    "This film is not great, it's terrible!"
+]
 ```
 
 ## Results and Conclusion
@@ -107,7 +109,7 @@ The project aimed to build a sentiment analysis model for movie reviews using a 
    - The model was capable of making sentiment predictions on custom text inputs, demonstrating its practical utility beyond evaluation metrics.
    - Example predictions on both positive and negative sentiment phrases showcased the model's ability to distinguish between different sentiment polarities accurately.
      
-    ![image](https://github.com/KrantiWalke/-BERT-Transformer-Based-Sentiment-Analysis-model-for-movie-reviews-/assets/72568005/f5d4f70d-b3fd-4033-b0a2-aa49069f9d9f)
+   ![image](https://github.com/KrantiWalke/Transformer-Based-Sentiment-Analysis-model-for-movie-reviews/assets/72568005/bbce16d4-5dba-4601-b79a-0e96fd1cf16e)
 
 6. **Discussion**:
    - The project highlighted the effectiveness of transformer-based models, such as BERT, in natural language processing tasks like sentiment analysis.
